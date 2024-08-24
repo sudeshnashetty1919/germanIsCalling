@@ -21,7 +21,7 @@ These are defined in the pom.xml file:
 
 Import the project into your IDE:
 If using Eclipse:
-    Go to File -> Import -> Existing Maven Projects -> Browse to the project directory -> Finish.
+    Go to File -> Import -> select the gitHub respository and clone the repository
 
 From the IDE
   Navigate to the TestRunnerForGermanIsCalling class and run it as a JUnit test.
