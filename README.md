@@ -6,6 +6,8 @@ Prerequisites:
   
   IDE (IntelliJ/Eclipse): For coding and testing, use an Integrated Development Environment (IDE) such as Eclipse or IntelliJ.(I've utilized Eclipse.)
 
+  Setup chrome driver path in your environment variables path.
+
  Technologies Used
    
     1. Java
