@@ -1,7 +1,9 @@
 Prerequisites:
   
   JDK (Java Development Kit) version 8 or later: Make sure you have Java installed.(I've utilized Java 21.)
+  
   Make sure Apache Maven is installed in order to control the build lifecycle of the project.
+  
   IDE (IntelliJ/Eclipse): For coding and testing, use an Integrated Development Environment (IDE) such as Eclipse or IntelliJ.(I've utilized Eclipse.)
 
  Technologies Used
